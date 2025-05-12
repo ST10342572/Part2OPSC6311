@@ -1,4 +1,5 @@
 Nomisma App
+
 Nomisma is a budgeting application designed to help users manage their finances effectively. The app allows users to log in, create categories for their expenses, and track their spending with detailed entries, including optional photographs.
 
 Features
