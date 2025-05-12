@@ -45,7 +45,8 @@ View and manage your expenses and categories easily.
 Video Explanation
 For a detailed walkthrough of the application, please watch the following video:
 
-Watch the Video Explanation
+Watch the Video Explanation:
+https://www.youtube.com/@crystalex9717
 
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
